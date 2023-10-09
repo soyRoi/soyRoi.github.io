@@ -1,0 +1,21 @@
+h1 {
+	color: red;
+}
+
+
+h1 {
+	text-align: center;
+	background-color: yellow;
+}
+
+h2 {
+	font-family: sans-serif;
+}
+
+div {
+	border: 10px solid black;
+}
+
+img {
+	width:  500px; max-width: 100%;
+}
